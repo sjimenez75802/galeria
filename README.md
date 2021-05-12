@@ -1,2 +1,4 @@
-# galeria
+# GalerÍa
 Galería Teleconsultorio
+
+
